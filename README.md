@@ -6,7 +6,7 @@ I like combining my technical knowledge with design to make beautiful and effici
 
 Outside of work, I'm interested in furthering my knowledge in the tech world. I also build many side projects.
 
-I'm currently learning Python and Data Science. I'm also developing my web skills using Next.js.
+I'm currently learning Langchain and creating SI assistants. I'm also developing my web skills using Next.js 15.2.0.
 
 ###  <img src="https://em-content.zobj.net/source/microsoft-teams/337/writing-hand_270d-fe0f.png" width="40px" /> Languages & Tools
 
