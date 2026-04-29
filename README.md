@@ -1,12 +1,12 @@
 ## 👋 Hi there
 
-I'm Simon, a fullstack developer based in Poland.
+I'm Simon, a full-stack software engineer based in Poland.
 
 I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient web apps while providing engaging and flawless user experiences.
 
 Outside of work, I'm interested in furthering my knowledge in the tech world. I also build many side projects.
 
-I'm currently learning Langchain and creating SI assistants. I'm also developing my web skills using Next.js 15.2.0.
+I’m currently learning machine learning algorithms and working with AI assistant systems. I’m also exploring LangChain and LangGraph to build my own AI assistants. Additionally, I develop backend applications and continue improving my web development skills.
 
 ###  <img src="https://em-content.zobj.net/source/microsoft-teams/337/writing-hand_270d-fe0f.png" width="40px" /> Languages & Tools
 
